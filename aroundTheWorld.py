@@ -2,10 +2,6 @@
     aroundTheWorld.py
     Novemmber 21st, 2016
 
-    Game which has the character run through ever
-    more difficult sceneries which represent
-    different regions of the world.
-
     Dylan Grandjean
 """
 import pygame, os, sys
